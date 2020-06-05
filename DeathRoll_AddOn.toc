@@ -1,0 +1,12 @@
+## Interface:
+## Title: DeathRoll_AddOn
+## Version: 0.0.1 alpha
+## Notes: Just starting to learn Lua. Make a deathroll addon.
+## Author: Alex
+## eMail: strazasensee@gmail.com
+## URL:
+## SavedVariables:
+## DefaultState: enabled
+
+DeathRoll_AddOn.lua
+Templates.xml
