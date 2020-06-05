@@ -8,5 +8,5 @@
 ## SavedVariables:
 ## DefaultState: enabled
 
-DeathRoll_AddOn.lua
+Core_DeathRoll_AddOn.lua
 Templates.xml
